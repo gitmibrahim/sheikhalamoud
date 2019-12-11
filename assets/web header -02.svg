@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 262">
+  <defs>
+    <style>
+      .cls-1{fill:#c8e552;}.cls-2,.cls-3,.cls-4,.cls-7{fill:none;stroke-miterlimit:10;}.cls-2,.cls-4{stroke:#1789a6;}.cls-3,.cls-7{stroke:#fff;}.cls-3,.cls-4{stroke-width:3.91px;}.cls-5{font-size:30px;font-family:HelveticaNeueLTW20-Bold, "HelveticaNeueLT W20 75 Bold";font-weight:700;}.cls-5,.cls-6{fill:#1789a6;}.cls-7{stroke-width:13.28px;}
+    </style>
+  </defs>
+  <title>web header </title>
+  <rect class="cls-1" width="500" height="262"/>
+  <line class="cls-2" x1="4.26" y1="242.95" x2="19.5" y2="242.95"/>
+  <polygon class="cls-3" points="388.8 132.21 364.04 158.97 364.04 174.6 138.78 174.6 138.78 158.97 115.2 132.8 138.78 108.41 138.78 87.4 364.04 87.4 364.04 108.41 388.8 132.21"/>
+  <rect class="cls-4" x="104.97" y="123.7" width="20.46" height="20.46" transform="translate(128.44 -42.23) rotate(45)"/>
+  <rect class="cls-4" x="378.57" y="123.7" width="20.46" height="20.46" transform="translate(208.58 -235.7) rotate(45)"/>
+  <text class="cls-5" transform="translate(213.7 123.65)">
+    باتك
+    <tspan x="-2.94" y="36" xml:space="preserve"> تايتفلا</tspan>
+  </text>
+  <polygon class="cls-6" points="71.18 236.88 47.54 262 0 262 0 169.88 1.85 171.62 26.76 170.87 41.27 170.43 41.33 172.54 42.46 209.85 71.18 236.88"/>
+  <polygon class="cls-7" points="98.27 238.17 75.84 262 0 262 0 146.12 0.22 145.89 26.76 170.87 28.94 172.92 41.33 172.54 68.36 171.72 69.55 211.14 98.27 238.17"/>
+</svg>
